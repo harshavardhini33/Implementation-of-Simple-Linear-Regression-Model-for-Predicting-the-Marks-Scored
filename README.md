@@ -9,7 +9,7 @@ To write a program to implement the simple linear regression model for predictin
 
 ## Algorithm
 ```
-1. Use the standard libraries in python for Gradient Design.
+1. Use the standard libraries in python.
 2. Set variables for assigning dataset values.
 3. Import LinearRegression from the sklearn.
 4. Assign the points for representing the graph.
