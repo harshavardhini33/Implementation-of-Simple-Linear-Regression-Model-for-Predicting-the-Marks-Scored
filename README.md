@@ -59,9 +59,10 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](./ex2pic.png)
+![ex2pic](https://user-images.githubusercontent.com/93427208/161201697-c6e3b5ad-1804-4b69-af38-c09522476ae7.png)
 
-![kiki](./Screenshot%20(261).png)
+![Screenshot (261)](https://user-images.githubusercontent.com/93427208/161201725-7323f92e-cedc-4047-be12-941c38dcf04e.png)
+
 
 
 ## Result:
